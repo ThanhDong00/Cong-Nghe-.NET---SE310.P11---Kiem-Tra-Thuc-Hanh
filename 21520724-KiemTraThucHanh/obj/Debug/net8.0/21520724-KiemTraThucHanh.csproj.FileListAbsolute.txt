@@ -259,3 +259,4 @@ C:\Users\thanh\source\repos\21520724-KiemTraThucHanh\21520724-KiemTraThucHanh\bi
 C:\Users\thanh\source\repos\21520724-KiemTraThucHanh\21520724-KiemTraThucHanh\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\thanh\source\repos\21520724-KiemTraThucHanh\21520724-KiemTraThucHanh\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\thanh\source\repos\21520724-KiemTraThucHanh\21520724-KiemTraThucHanh\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\thanh\source\repos\21520724-KiemTraThucHanh\21520724-KiemTraThucHanh\obj\Debug\net8.0\21520724-KiemTraThucHanh.sourcelink.json
